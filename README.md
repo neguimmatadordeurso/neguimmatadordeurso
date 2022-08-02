@@ -1,7 +1,7 @@
 #sobre mim
 - 👋 Hi, I’m @neguimmatadordeurso
 - 👀 meu email de contato fabricio.carvalho.jesus@escola.pr.gov.br
-- 🌱 estou inerecado em programaçao
+- 🌱 estou intereçado em programaçao
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
